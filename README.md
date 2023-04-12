@@ -1,4 +1,3 @@
-README
 ### API Endpoints
 | Invisinets API | First-party API |
 | --- | ----------- |
