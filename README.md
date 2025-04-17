@@ -1,3 +1,6 @@
+### NOTE
+This repo is the initial implementation of the Invisinets API. The overall Invisinets project has evolved with its collaborators (Google, Microsoft, IBM, and more) to become the [Paraglider project](paragliderproject.io) with its own implementation found [here](https://github.com/paraglider-project/paraglider)
+
 ### API Endpoints
 | Invisinets API | First-party API |
 | --- | ----------- |
